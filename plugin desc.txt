@@ -1,0 +1,5 @@
+WP-plugin Development assessment
+
+- Create new plugin in WordPress
+- implement in existing WordPesss Website of Assessment 1
+-
